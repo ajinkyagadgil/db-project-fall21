@@ -1,4 +1,4 @@
-# Database Systems-Group-18
+# Database Systems Group-18
 This project is a part of the Database Systems (ITCS - 6160) course from the University of North Carolina at Charlotte.
 
 ## Team Members
