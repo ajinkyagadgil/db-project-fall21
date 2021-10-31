@@ -9,6 +9,7 @@ This project is a part of the Database Systems (ITCS - 6160) course from the Uni
 
 ## Group Contract
 - Below is the group contract <br/>
+[go](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery1/Group_16_Contract.pdf){:target="_blank"}.
 https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery1/Group_16_Contract.pdf
 
 ## Project Introduction
