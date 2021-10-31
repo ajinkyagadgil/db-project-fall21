@@ -14,9 +14,9 @@ Food delivery services are more vital than ever with the possibility of the Coro
 
 ## Use Case for Ratings System
 
-## EERD: 
+## EERD
 
-## Data Dictionary:
+## Data Dictionary
 
 ## Queries
 
