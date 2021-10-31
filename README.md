@@ -8,6 +8,7 @@ This project is a part of the Database Systems (ITCS - 6160) course from the Uni
 * Pallavi Shirodkar
 
 ## Group Contract
+- Below is the group contract <br/>
 https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery1/Group_16_Contract.pdf
 
 ## Project Introduction
@@ -16,11 +17,11 @@ Food delivery services are more vihttps://github.com/ajinkyagadgil/db-project-fa
 ## Use Case for Ratings System
 
 ## EERD
-- This is premilimary ERD diagram and subject to change in coming days.
+- This is premilimary ERD diagram and subject to change in coming days. <br/>
 https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery1/ERD_P1.png
 
 ## Data Dictionary
-- Below is the excel file for data dictionary.
+- Below is the excel file for data dictionary. <br/>
 https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery1/data_dictionary.xlsx
 
 ## Queries
