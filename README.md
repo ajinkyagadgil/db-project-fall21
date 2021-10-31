@@ -24,7 +24,7 @@ Food delivery services are more vihttps://github.com/ajinkyagadgil/db-project-fa
 
 ## Data Dictionary
 - Below is the excel file for data dictionary. <br/>
-[EERD](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery1/data_dictionary.xlsx)
+[Data Dictionary](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery1/data_dictionary.xlsx)
 
 ## Use Case for Ratings System
 Watch this space. Coming Soon.
