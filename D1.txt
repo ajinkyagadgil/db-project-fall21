@@ -1,0 +1,11 @@
+By the deadline groups need to turn in:
+
+Signed Group Contract:  Establish team contract, submit PDF of contract with dated signatures from all team members.  Here is a sample contract; the rules that each group agrees on may differ: https://cns.utexas.edu/images/CNS/TIDES/teaching-portal/Examplegroupcontract.pdf
+
+Project Repository (Github or Other Site) with:
+
+Team and Members
+Project Introduction
+Business Rules
+EERD (with new tables)
+Data Dictionary
