@@ -20,11 +20,11 @@ Food delivery services are more vital than ever with the possibility of the Coro
 
 ## EERD
 - This is premilimary EERD diagram and subject to change in coming days. <br/>
-[EERD](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery1/ERD_P1.png)
+[EERD](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery2/D2_ERD.png)
 
 ## Data Dictionary
 - Below is the excel file for data dictionary. <br/>
-[Data Dictionary](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery1/data_dictionary.xlsx)
+[Data Dictionary](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery2/data_dictionary_d2.xlsx)
 
 ## Use Case for Ratings System
 Watch this space. Coming Soon.
