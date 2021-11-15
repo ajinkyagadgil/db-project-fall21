@@ -1,0 +1,5 @@
+1. Nutrition ingredient association table - Ingredient table association corrected
+2. Restuarant feature table added
+3. Removed rating table to avoid unncessary joins.
+4. Altered Restaurant_Rating_Assoc Table to Restaurant_Rating table. Also, dropped foreign key - RatingId and added rating score. Added featureId foreign key.
+5. Altered Driver_Rating_Assoc Table to Driver_Rating table. Also, dropped foreign key - RatingId and added rating score.
