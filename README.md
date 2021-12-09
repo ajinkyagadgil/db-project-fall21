@@ -30,7 +30,7 @@ Food delivery services are more vital than ever with the possibility of the Coro
 [Group 16 PPT](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery3/Database%20PPT.pptx)
 
 ## Group 16 Video Narration
-[Group 16 Video Narration](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery3/Group%2016.mp4)
+[Group 16 Video Narration](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery3/Group16_ProjectNarration.mp4)
 
 ## Stored Procedures, Views, Functions and indexes
 [Stored Procedures, Functions and Indexes](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery3/Deliverable%203.pdf)
