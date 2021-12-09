@@ -16,27 +16,39 @@ Food delivery services are more vital than ever with the possibility of the Coro
 
 ## Business Rules
 - Below are the preliminary identified business rules <br/>
-[Business Rules](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery1/BusinessRules.pdf)
+[Business Rules](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery3/BusinessRules.pdf)
 
 ## EERD
 - This is premilimary EERD diagram and subject to change in coming days. <br/>
-[EERD](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery2/D2_ERD.png)
+[EERD](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery3/ERD.png)
 
 ## Data Dictionary
 - Below is the excel file for data dictionary. <br/>
-[Data Dictionary](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery2/data_dictionary_d2.xlsx)
+[Data Dictionary](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery3/data_dictionary.xlsx)
 
-## Use Case for Ratings System
-Watch this space. Coming Soon.
+## Group 16 PPT
+[Group 16 PPT](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery3/Database%20PPT.pptx)
 
-## Queries
-Watch this space. Coming Soon.
+## Group 16 Video Narration
+[Group 16 Video Narration](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery3/Group%2016.mp4)
 
-## Stored Procedures and Functions
-Watch this space. Coming Soon.
+## Stored Procedures, Views, Functions and indexes
+[Stored Procedures, Functions and Indexes](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery3/Deliverable%203.pdf)
+
+## Stored Procedures
+[Stored Procedures](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery3/stored_proc.sql)
+
+## Views
+[Views](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery3/views.sql)
+
+## Functions
+[Functions](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery3/function.sql)
 
 ## Indexes
-Watch this space. Coming Soon.
+[Indexes](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery3/views.sql)
 
-## Future Work
-Watch this space. Coming Soon.
+## Functions
+[Functions](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery3/function.sql)
+
+## SQL Dump
+[SQL Dump](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery3/Group%2016%20Dump.zip)
