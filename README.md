@@ -45,10 +45,7 @@ Food delivery services are more vital than ever with the possibility of the Coro
 [Functions](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery3/function.sql)
 
 ## Indexes
-[Indexes](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery3/views.sql)
-
-## Functions
-[Functions](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery3/function.sql)
+[Indexes](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery3/indexes.sql)
 
 ## SQL Dump
 [SQL Dump](https://github.com/ajinkyagadgil/db-project-fall21/blob/main/Delivery3/Group%2016%20Dump.zip)
